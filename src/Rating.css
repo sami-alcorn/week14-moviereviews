@@ -1,0 +1,19 @@
+/*styles the button that holds the stars*/
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: default;
+  }
+  /* makes the rating stars bigger */
+  .star {
+    font-size: 30px; 
+  }
+  /*changes the color of the stars when they are clicked on for rating */
+  .on {
+    color: #deea5d;
+  }
+  /*color of the stars before they are clicked*/
+  .off {
+    color: #ccc;
+  }

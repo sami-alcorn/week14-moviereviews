@@ -1,0 +1,9 @@
+/*centers all the content in the body of the page. I couldn't get the background color
+to change but I left it in to go back to it later*/
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #282c34;
+  margin: 0;
+}
+

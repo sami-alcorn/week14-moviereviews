@@ -1,0 +1,16 @@
+/*centers everything in app div, changes the font, adds padding*/
+.App {
+    display: flex;
+    align-items: center;
+    font-family: 'lucida console', monospace;
+    cursor: default;
+    padding: 20px;
+    }
+ /*centers movie information with the card divs, adds margin and padding*/   
+.card {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center; 
+    padding: 10px;
+}    
